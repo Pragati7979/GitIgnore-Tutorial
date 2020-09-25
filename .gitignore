@@ -1,0 +1,3 @@
+#using this file to ignore the important files to get commited
+secrets.txt
+.DS_Store
